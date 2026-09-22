@@ -82,6 +82,39 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 
 ---
 
+### 🌟 Key Highlights & Milestones
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏛️ Public Sector & Analytics</h4>
+      <ul>
+        <li><b>DA-RFO VI:</b> Information Systems Analyst II under Rice Program & Agricultural Statistics, architecting regional BI systems.</li>
+        <li><b>DICT Region VI:</b> Recipient of the <i>Best in Internship Award</i> for technical contributions to digital infrastructure.</li>
+      </ul>
+      <h4>🎓 Academic Excellence</h4>
+      <ul>
+        <li><b>B.S. in Computer Science:</b> Iloilo Science and Technology University (ISAT U).</li>
+        <li><b>Scholarships:</b> Commission on Higher Education (CHED) Full Scholar.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌍 Leadership & Global Fellowship</h4>
+      <ul>
+        <li><b>Harvard ALP '26:</b> Aspire Leaders Program Fellow, focused on civic leadership, systemic impact, and governance.</li>
+        <li><b>Exchange Scholar:</b> 2x International Academic Exchange Scholar across institutions in Taiwan and Indonesia.</li>
+      </ul>
+      <h4>🚀 Hackathons & Innovation</h4>
+      <ul>
+        <li><b>Startup Winner:</b> 2x Regional Startup Hackathon Champion (AI, Automation & Smart Systems).</li>
+        <li><b>Professional Reach:</b> Engaging a 10K+ network across data, AI, and agricultural technology.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📈 GitHub Contribution Streak & Activity
 
 <p align="center">
@@ -94,18 +127,15 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 
 ---
 
-### 🌟 Key Highlights & Milestones
+### 💬 Daily Dev & Data Mindset
 
-* **Public Sector Analytics:** Information Systems Analyst II at Department of Agriculture RFO VI (Rice Program & Agricultural Statistics).
-* **Leadership & Strategy:** Harvard Aspire Leaders Program (ALP '26) Fellow.
-* **Innovation & Hackathons:** 2x Regional Startup Hackathon Winner (AI & Smart Systems).
-* **Global Exposure:** 2x International Academic Exchange Scholar (Taiwan & Indonesia).
-* **Academic & Civic Recognition:** B.S. in Computer Science graduate, CHED Full Scholar, and Best Internship Awardee at DICT Region VI.
-
----
-
-> *"Without big data, you are blind and deaf and in the middle of a freeway."*  
-> — **Geoffrey Moore**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&border=false&quote_color=2EA043&author_color=8B949E" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-daily-quotes.vercel.app/api?theme=default&border=false&quote_color=0A5C36&author_color=57606A" />
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=default&border=false&quote_color=0A5C36&author_color=57606A" alt="Daily Dynamic Quote" />
+  </picture>
+</p>
 
 <p align="center">
   <sub>© 2026 Abegail Vanjo G. Verdugo. All rights reserved.</sub>
