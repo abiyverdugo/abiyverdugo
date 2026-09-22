@@ -61,7 +61,11 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 ### 🏆 Interactive Trophies & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abiyverdugo&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=abiyverdugo&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=abiyverdugo&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abiyverdugo&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  </picture>
 </p>
 
 ---
@@ -93,12 +97,28 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 ### 📈 GitHub Contribution Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abiyverdugo&theme=dark&background=0D1117&border=0A5C36&stroke=0A5C36&ring=2EA043&fire=2EA043&currStreakNum=2EA043&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" width="85%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abiyverdugo&theme=dark&background=0D1117&border=0A5C36&stroke=0A5C36&ring=2EA043&fire=2EA043&currStreakNum=2EA043&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abiyverdugo&theme=light&background=FFFFFF&border=0A5C36&stroke=0A5C36&ring=0A5C36&fire=0A5C36&currStreakNum=0A5C36&sideNums=24292F&sideLabels=57606A&dates=57606A" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abiyverdugo&theme=light&background=FFFFFF&border=0A5C36&stroke=0A5C36&ring=0A5C36&fire=0A5C36&currStreakNum=0A5C36&sideNums=24292F&sideLabels=57606A&dates=57606A" alt="GitHub Streak" width="85%" />
+  </picture>
 </p>
 
 ---
 
-### 🌟 Key Highlights
+### 💬 Daily Dev & Data Mindset
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite" alt="Dev Quote" />
+  </picture>
+</p>
+
+---
+
+### 🌟 Key Highlights & Milestones
 
 * **Public Sector Analytics:** Information Systems Analyst II at Department of Agriculture RFO VI (Rice Program & Agricultural Statistics)[cite: 16, 17, 18].
 * **Leadership & Strategy:** Harvard Aspire Leaders Program (ALP '26) Fellow.
