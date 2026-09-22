@@ -127,15 +127,19 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 
 ---
 
-### 💬 Daily Dev & Data Mindset
+### 💭 Food for Thought
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&border=false&quote_color=2EA043&author_color=8B949E" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-daily-quotes.vercel.app/api?theme=default&border=false&quote_color=0A5C36&author_color=57606A" />
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=default&border=false&quote_color=0A5C36&author_color=57606A" alt="Daily Dynamic Quote" />
-  </picture>
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&border=false&quote_color=2EA043&author_color=8B949E" />
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-daily-quotes.vercel.app/api?theme=default&border=false&quote_color=0A5C36&author_color=57606A" />
+        <img src="https://readme-daily-quotes.vercel.app/api?theme=default&border=false&quote_color=0A5C36&author_color=57606A" alt="Daily Dynamic Quote" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <sub>© 2026 Abegail Vanjo G. Verdugo. All rights reserved.</sub>
