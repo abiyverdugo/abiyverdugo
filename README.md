@@ -131,12 +131,13 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 
 <table width="100%">
   <tr>
-    <td align="center" style="padding: 20px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&border=false&quote_color=2EA043&author_color=8B949E" />
-        <source media="(prefers-color-scheme: light)" srcset="https://readme-daily-quotes.vercel.app/api?theme=default&border=false&quote_color=0A5C36&author_color=57606A" />
-        <img src="https://readme-daily-quotes.vercel.app/api?theme=default&border=false&quote_color=0A5C36&author_color=57606A" alt="Daily Dynamic Quote" />
-      </picture>
+    <td align="center" style="padding: 24px;">
+      <p style="font-size: 16px; font-style: italic; color: #2E7D32; line-height: 1.6; margin: 0;">
+        "Every person's work, whether it be literature or music or code or architecture, is always a portrait of oneself."
+      </p>
+      <p style="margin-top: 10px; font-size: 13px; color: #57606A; font-weight: bold;">
+        — Samuel Butler
+      </p>
     </td>
   </tr>
 </table>
