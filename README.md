@@ -35,9 +35,9 @@
 
 ### 🚀 About Me
 
-I design data pipelines, analytical models, and executive Business Intelligence systems for the public sector and enterprise operations[cite: 15]. Currently serving at the **Department of Agriculture Regional Field Office VI**, I specialize in transforming raw agricultural statistics into actionable insights on production economics, climate vulnerability, and commodity pricing across Western Visayas[cite: 15, 17, 18].
+I design data pipelines, analytical models, and executive Business Intelligence systems for the public sector and enterprise operations. Currently serving at the **Department of Agriculture Regional Field Office VI**, I specialize in transforming raw agricultural statistics into actionable insights on production economics, climate vulnerability, and commodity pricing across Western Visayas.
 
-* 🔭 **Current Focus:** Architecting production-level Power BI reporting hubs and agricultural monitoring systems for DA-RFO VI[cite: 15, 17].
+* 🔭 **Current Focus:** Architecting production-level Power BI reporting hubs and agricultural monitoring systems for DA-RFO VI.
 * 📊 **Featured Project:** Check out my **[Power BI Agricultural Analytics Portfolio](https://github.com/abiyverdugo/PowerBI-Portfolio)**!
 * 🤖 **Continuous Learning:** AWS AI & Machine Learning Scholar, exploring workflow automation with Python, Zapier, and n8n.
 * 💬 **Ask me about:** Data modeling, DAX, Power Query ETL, SQL, and agricultural analytics.
@@ -107,7 +107,7 @@ I design data pipelines, analytical models, and executive Business Intelligence 
     <td width="50%" valign="top">
       <h4>🏛️ Public Sector & Analytics</h4>
       <ul>
-        <li><b>DA-RFO VI:</b> Information Systems Analyst II under Rice Program & Agricultural Statistics, architecting regional BI systems[cite: 15, 17].</li>
+        <li><b>DA-RFO VI:</b> Information Systems Analyst II under Rice Program & Agricultural Statistics, architecting regional BI systems.</li>
         <li><b>DICT Region VI:</b> Recipient of the <i>Best in Internship Award</i> for technical contributions to digital infrastructure.</li>
       </ul>
       <h4>🎓 Academic Excellence</h4>
@@ -161,8 +161,8 @@ I design data pipelines, analytical models, and executive Business Intelligence 
   </tr>
 </table>
 
-</div>
+<br/>
 
-<p align="center">
-  <sub>© 2026 Abegail Vanjo G. Verdugo. All rights reserved.</sub>
-</p>
+<sub>© 2026 Abegail Vanjo G. Verdugo. All rights reserved.</sub>
+
+</div>
