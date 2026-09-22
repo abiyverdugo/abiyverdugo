@@ -1,23 +1,58 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=abiyverdugo&label=Profile%20Views&color=0A5C36&style=flat-square" alt="Profile Views" />
+</p>
+
 # Hi there, I'm Abiy! 👋 🌾
 
-### **Information Systems Analyst II / Data Analyst**
+<h3 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0A5C36&width=550&lines=Information+Systems+Analyst+II;Power+BI+%26+DAX+Specialist;AI+%26+Automation+Enthusiast;Harvard+ALP+'26+Fellow" alt="Typing SVG" />
+  </a>
+</h3>
+
 **Department of Agriculture — Regional Field Office VI (Western Visayas)**  
 *B.S. in Computer Science | AI Tech Automation | Cloud & Data Enthusiast*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiyverdugo/)
-[![Portfolio](https://img.shields.io/badge/Power_BI-Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/abiyverdugo/PowerBI-Portfolio)
+[![Power BI Portfolio](https://img.shields.io/badge/Power_BI-Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/abiyverdugo/PowerBI-Portfolio)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abegailvanjoverdugo@gmail.com)
 
 ---
 
 ### 🚀 About Me
 
-I design data pipelines, analytical models, and executive Business Intelligence systems for the public sector and enterprise operations. Currently serving at the **Department of Agriculture Regional Field Office VI**, I specialize in transforming raw agricultural statistics into actionable insights on production economics, climate vulnerability, and commodity pricing across Western Visayas.
+I design data pipelines, analytical models, and executive Business Intelligence systems for the public sector and enterprise operations[cite: 16]. Currently serving at the **Department of Agriculture Regional Field Office VI**, I specialize in transforming raw agricultural statistics into actionable insights on production economics, climate vulnerability, and commodity pricing across Western Visayas[cite: 16, 17, 19].
 
-* 🔭 **Current Focus:** Architecting production-level Power BI reporting hubs and agricultural monitoring systems for DA-RFO VI.
-* 📊 **Featured Project:** Check out my **[Power BI Agricultural Analytics Portfolio](https://github.com/abiyverdugo/PowerBI-Portfolio)**.
+* 🔭 **Current Focus:** Architecting production-level Power BI reporting hubs and agricultural monitoring systems for DA-RFO VI[cite: 16, 17].
+* 📊 **Featured Project:** Check out my **[Power BI Agricultural Analytics Portfolio](https://github.com/abiyverdugo/PowerBI-Portfolio)**[cite: 31, 39]!
 * 🤖 **Continuous Learning:** AWS AI & Machine Learning Scholar, exploring workflow automation with Python, Zapier, and n8n.
 * 💬 **Ask me about:** Data modeling, DAX, Power Query ETL, SQL, and agricultural analytics.
+
+---
+
+### 🌾 Featured Power BI Showcase
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h4>Department of Agriculture RFO VI — Analytics Portfolio</h4>
+      <p>
+        Production-ready analytical models tracking El Niño climate shock patterns, provincial cost-of-production structures, and weekly rice price monitoring across Region VI.
+      </p>
+      <p>
+        <b>Tech Stack:</b> Power BI, Advanced DAX, Power Query (M), Star Schema Architecture
+      </p>
+      <a href="https://github.com/abiyverdugo/PowerBI-Portfolio">
+        <img src="https://img.shields.io/badge/Open_Power_BI-Portfolio_Repo-0A5C36?style=for-the-badge&logo=powerbi&logoColor=white" alt="Portfolio" />
+      </a>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <a href="https://github.com/abiyverdugo/PowerBI-Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abiyverdugo&repo=PowerBI-Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA043" alt="Pinned Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,13 +80,23 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 
 ---
 
+### 📈 GitHub Statistics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abiyverdugo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043" height="150" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiyverdugo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA043" height="150" alt="Top Languages" />
+</p>
+
+---
+
 ### 🏆 Key Highlights & Milestones
 
-* **Public Sector Analytics:** Information Systems Analyst II at Department of Agriculture RFO VI (Rice Program & Agricultural Statistics).
-* **Leadership & Strategy:** Harvard Aspire Leaders Program (ALP '26) Fellow.
-* **Innovation & Hackathons:** 2x Regional Startup Hackathon Winner (AI & Smart Systems).
-* **Global Exposure:** 2x International Academic Exchange Scholar (Taiwan & Indonesia).
-* **Academic & Civic Recognition:** B.S. in Computer Science graduate, CHED Full Scholar, and Best Internship Awardee at DICT Region VI.
+* **Public Sector Analytics:** Information Systems Analyst II at Department of Agriculture RFO VI (Rice Program & Agricultural Statistics)[cite: 16, 17, 18].
+* **Leadership & Strategy:** Harvard Aspire Leaders Program (ALP '26) Fellow[cite: 32].
+* **Innovation & Hackathons:** 2x Regional Startup Hackathon Winner (AI & Smart Systems)[cite: 32].
+* **Global Exposure:** 2x International Academic Exchange Scholar (Taiwan & Indonesia)[cite: 32].
+* **Academic & Civic Recognition:** B.S. in Computer Science graduate, CHED Full Scholar, and Best Internship Awardee at DICT Region VI[cite: 32].
 
 ---
 
