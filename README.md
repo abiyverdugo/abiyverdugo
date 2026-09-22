@@ -1,29 +1,43 @@
+<div align="center">
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=abiyverdugo&label=Profile%20Views&color=0A5C36&style=flat-square" alt="Profile Views" />
 </p>
 
 # Hi there, I'm Abiy! 👋 🌾
 
-<h3 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0A5C36&width=550&lines=Information+Systems+Analyst+II;Power+BI+%26+DAX+Specialist;AI+%26+Automation+Enthusiast;Harvard+ALP+'26+Fellow" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0A5C36&center=true&vCenter=true&width=550&lines=Information+Systems+Analyst+II;Power+BI+%26+DAX+Specialist;AI+%26+Automation+Enthusiast;Harvard+ALP+'26+Fellow" alt="Typing SVG" />
+</a>
+
+<p>
+  <b>Department of Agriculture — Regional Field Office VI (Western Visayas)</b><br/>
+  <i>B.S. in Computer Science | AI Tech Automation | Cloud & Data Enthusiast</i>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/abiyverdugo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</h3>
+  &nbsp;
+  <a href="https://github.com/abiyverdugo/PowerBI-Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Power_BI-Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:abegailvanjoverdugo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-**Department of Agriculture — Regional Field Office VI (Western Visayas)**  
-*B.S. in Computer Science | AI Tech Automation | Cloud & Data Enthusiast*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiyverdugo/)
-[![Power BI Portfolio](https://img.shields.io/badge/Power_BI-Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/abiyverdugo/PowerBI-Portfolio)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abegailvanjoverdugo@gmail.com)
+</div>
 
 ---
 
 ### 🚀 About Me
 
-I design data pipelines, analytical models, and executive Business Intelligence systems for the public sector and enterprise operations. Currently serving at the **Department of Agriculture Regional Field Office VI**, I specialize in transforming raw agricultural statistics into actionable insights on production economics, climate vulnerability, and commodity pricing across Western Visayas.
+I design data pipelines, analytical models, and executive Business Intelligence systems for the public sector and enterprise operations[cite: 15]. Currently serving at the **Department of Agriculture Regional Field Office VI**, I specialize in transforming raw agricultural statistics into actionable insights on production economics, climate vulnerability, and commodity pricing across Western Visayas[cite: 15, 17, 18].
 
-* 🔭 **Current Focus:** Architecting production-level Power BI reporting hubs and agricultural monitoring systems for DA-RFO VI.
+* 🔭 **Current Focus:** Architecting production-level Power BI reporting hubs and agricultural monitoring systems for DA-RFO VI[cite: 15, 17].
 * 📊 **Featured Project:** Check out my **[Power BI Agricultural Analytics Portfolio](https://github.com/abiyverdugo/PowerBI-Portfolio)**!
 * 🤖 **Continuous Learning:** AWS AI & Machine Learning Scholar, exploring workflow automation with Python, Zapier, and n8n.
 * 💬 **Ask me about:** Data modeling, DAX, Power Query ETL, SQL, and agricultural analytics.
@@ -32,25 +46,29 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 
 ### 🛠️ Tech Stack & Tools
 
-**Data Analytics & Business Intelligence:**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-045C36?style=flat-square&logo=dax&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-238636?style=flat-square&logo=powerquery&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+<div align="center">
 
-**Programming & Data Science:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<p><b>Data Analytics & Business Intelligence</b></p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/DAX-045C36?style=flat-square&logo=dax&logoColor=white" alt="DAX" />
+<img src="https://img.shields.io/badge/Power_Query-238636?style=flat-square&logo=powerquery&logoColor=white" alt="Power Query" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" />
 
-**Workflow Automation & Cloud:**  
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p><b>Programming & Data Science</b></p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+
+<p><b>Workflow Automation & Cloud</b></p>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
 
 ---
 
@@ -89,7 +107,7 @@ I design data pipelines, analytical models, and executive Business Intelligence 
     <td width="50%" valign="top">
       <h4>🏛️ Public Sector & Analytics</h4>
       <ul>
-        <li><b>DA-RFO VI:</b> Information Systems Analyst II under Rice Program & Agricultural Statistics, architecting regional BI systems.</li>
+        <li><b>DA-RFO VI:</b> Information Systems Analyst II under Rice Program & Agricultural Statistics, architecting regional BI systems[cite: 15, 17].</li>
         <li><b>DICT Region VI:</b> Recipient of the <i>Best in Internship Award</i> for technical contributions to digital infrastructure.</li>
       </ul>
       <h4>🎓 Academic Excellence</h4>
@@ -131,11 +149,11 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 
 <table width="100%">
   <tr>
-    <td align="center" style="padding: 24px;">
-      <p style="font-size: 16px; font-style: italic; color: #2E7D32; line-height: 1.6; margin: 0;">
+    <td align="center" style="padding: 20px;">
+      <p style="font-size: 15px; font-style: italic; color: #0A5C36; margin: 0; line-height: 1.5;">
         "Every person's work, whether it be literature or music or code or architecture, is always a portrait of oneself."
       </p>
-      <p style="margin-top: 10px; font-size: 13px; color: #57606A; font-weight: bold;">
+      <p style="margin-top: 8px; font-size: 13px; color: #57606A; font-weight: 600;">
         — Samuel Butler
       </p>
     </td>
