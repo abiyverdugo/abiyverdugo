@@ -72,7 +72,7 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 
 ---
 
-### 🌾 Featured Power BI Showcase
+### 🌾 Featured Power BI Portfolio
 
 <table>
   <tr>
