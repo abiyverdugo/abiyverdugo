@@ -145,20 +145,23 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 
 ---
 
+<div align="center">
+
 ### 💭 Food for Thought
 
-<table width="100%">
+<table width="85%">
   <tr>
-    <td align="center" style="padding: 20px;">
-      <p style="font-size: 15px; font-style: italic; color: #0A5C36; margin: 0; line-height: 1.5;">
-        "Every person's work, whether it be literature or music or code or architecture, is always a portrait of oneself."
-      </p>
-      <p style="margin-top: 8px; font-size: 13px; color: #57606A; font-weight: 600;">
-        — Samuel Butler
-      </p>
+    <td align="center">
+      <br/>
+      <i>"Every person's work, whether it be literature or music or code or architecture, is always a portrait of oneself."</i>
+      <br/><br/>
+      <b>— Samuel Butler</b>
+      <br/><br/>
     </td>
   </tr>
 </table>
+
+</div>
 
 <p align="center">
   <sub>© 2026 Abegail Vanjo G. Verdugo. All rights reserved.</sub>
