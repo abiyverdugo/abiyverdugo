@@ -12,12 +12,12 @@
 
 ### 🚀 About Me
 
-I design data pipelines, analytical models, and executive Business Intelligence systems for the public sector and enterprise operations[cite: 25, 26]. Currently serving at the **Department of Agriculture Regional Field Office VI**, I specialize in transforming raw agricultural statistics into actionable insights on production economics, climate vulnerability, and commodity pricing across Western Visayas[cite: 25, 26, 28].
+I design data pipelines, analytical models, and executive Business Intelligence systems for the public sector and enterprise operations. Currently serving at the **Department of Agriculture Regional Field Office VI**, I specialize in transforming raw agricultural statistics into actionable insights on production economics, climate vulnerability, and commodity pricing across Western Visayas.
 
-* 🔭 **Current Focus:** Architecting production-level Power BI reporting hubs and agricultural monitoring systems for DA-RFO VI[cite: 25, 26].
-* 📊 **Featured Project:** Check out my **[Power BI Agricultural Analytics Portfolio](https://github.com/abiyverdugo/PowerBI-Portfolio)**[cite: 32].
-* 🤖 **Continuous Learning:** AWS AI & Machine Learning Scholar, exploring workflow automation with Python, Zapier, and n8n[cite: 41].
-* 💬 **Ask me about:** Data modeling, DAX, Power Query ETL, SQL, and agricultural analytics[cite: 41].
+* 🔭 **Current Focus:** Architecting production-level Power BI reporting hubs and agricultural monitoring systems for DA-RFO VI.
+* 📊 **Featured Project:** Check out my **[Power BI Agricultural Analytics Portfolio](https://github.com/abiyverdugo/PowerBI-Portfolio)**.
+* 🤖 **Continuous Learning:** AWS AI & Machine Learning Scholar, exploring workflow automation with Python, Zapier, and n8n.
+* 💬 **Ask me about:** Data modeling, DAX, Power Query ETL, SQL, and agricultural analytics.
 
 ---
 
@@ -47,11 +47,11 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 
 ### 🏆 Key Highlights & Milestones
 
-* **Public Sector Analytics:** Information Systems Analyst II at Department of Agriculture RFO VI (Rice Program & Agricultural Statistics)[cite: 25, 26, 27].
-* **Leadership & Strategy:** Harvard Aspire Leaders Program (ALP '26) Fellow[cite: 41].
-* **Innovation & Hackathons:** 2x Regional Startup Hackathon Winner (AI & Smart Systems)[cite: 41].
-* **Global Exposure:** 2x International Academic Exchange Scholar (Taiwan & Indonesia)[cite: 41].
-* **Academic & Civic Recognition:** B.S. in Computer Science graduate, CHED Full Scholar, and Best Internship Awardee at DICT Region VI[cite: 41].
+* **Public Sector Analytics:** Information Systems Analyst II at Department of Agriculture RFO VI (Rice Program & Agricultural Statistics).
+* **Leadership & Strategy:** Harvard Aspire Leaders Program (ALP '26) Fellow.
+* **Innovation & Hackathons:** 2x Regional Startup Hackathon Winner (AI & Smart Systems).
+* **Global Exposure:** 2x International Academic Exchange Scholar (Taiwan & Indonesia).
+* **Academic & Civic Recognition:** B.S. in Computer Science graduate, CHED Full Scholar, and Best Internship Awardee at DICT Region VI.
 
 ---
 
