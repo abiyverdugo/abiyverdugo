@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=abiyverdugo&label=Profile%20Views&color=0A5C36&style=flat-square" alt="Profile Views" />
 </p>
 
-# Hi there, I'm Abiy! 👋 🌾
+# Hi, I'm Abiy! 👋 🌾
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0A5C36&center=true&vCenter=true&width=550&lines=Information+Systems+Analyst+II;Power+BI+%26+DAX+Specialist;AI+%26+Automation+Enthusiast;Harvard+ALP+'26+Fellow" alt="Typing SVG" />
