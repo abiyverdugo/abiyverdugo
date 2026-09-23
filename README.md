@@ -147,19 +147,21 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 
 <div align="center">
 
-### 💭 Food for Thought
+<h3 align="center">💭 Food for Thought</h3>
 
 <table width="85%">
   <tr>
-    <td align="center">
-      <br/>
-      <i>"Every person's work, whether it be literature or music or code or architecture, is always a portrait of oneself."</i>
-      <br/><br/>
-      <b>— Samuel Butler</b>
-      <br/><br/>
+    <td align="center" style="padding: 16px;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0D1117&quote_color=2EA043&author_color=8B949E&border_color=2EA043" />
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-daily-quotes.vercel.app/api?theme=light&bg_color=FFFFFF&quote_color=0A5C36&author_color=24292F&border_color=0A5C36" />
+        <img src="https://readme-daily-quotes.vercel.app/api?theme=light&bg_color=FFFFFF&quote_color=0A5C36&author_color=24292F&border_color=0A5C36" alt="Daily Dynamic Quote" />
+      </picture>
     </td>
   </tr>
 </table>
+
+</div>
 
 <br/>
 
