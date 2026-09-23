@@ -149,21 +149,15 @@ I design data pipelines, analytical models, and executive Business Intelligence 
 
 <h3 align="center">💭 Food for Thought</h3>
 
-<table width="85%">
-  <tr>
-    <td align="center" style="padding: 16px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0D1117&quote_color=2EA043&author_color=8B949E&border_color=2EA043" />
-        <source media="(prefers-color-scheme: light)" srcset="https://readme-daily-quotes.vercel.app/api?theme=light&bg_color=FFFFFF&quote_color=0A5C36&author_color=24292F&border_color=0A5C36" />
-        <img src="https://readme-daily-quotes.vercel.app/api?theme=light&bg_color=FFFFFF&quote_color=0A5C36&author_color=24292F&border_color=0A5C36" alt="Daily Dynamic Quote" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<picture>
+  <!-- Dark mode: Slate background with bright forest green text -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=2EA043&author_color=8B949E&border_color=2EA043" />
+  <!-- Light mode: Crisp white background, clean forest green text, matching your streak card -->
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&bg_color=FFFFFF&quote_color=0A5C36&author_color=24292F&border_color=0A5C36" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&bg_color=FFFFFF&quote_color=0A5C36&author_color=24292F&border_color=0A5C36" alt="Daily Dynamic Quote" />
+</picture>
 
-</div>
-
-<br/>
+<br/><br/>
 
 <sub>© 2026 Abegail Vanjo G. Verdugo. All rights reserved.</sub>
 
